@@ -37,7 +37,7 @@ The Meal Management System is a desktop application created to solve common prob
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/meal-management-system.git
+   git clone github.com/Rayhan-002/Meal-Management
 ## Database Configuration
 
 1. Import `users_db.sql` to set up the database in MySQL.
@@ -64,15 +64,7 @@ The Meal Management System is a desktop application created to solve common prob
 
 ## Screenshots
 
-To provide visual context for your project, please upload screenshots showcasing:
 
-- The login screen
-- The signup interface
-- The dashboard view with member data
-- Monthly closing calculations
-- Any additional features you find relevant
-
-> **Note**: Replace `path/to/...` with the actual paths where you store your screenshots.
 
 ## Future Enhancements
 
