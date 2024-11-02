@@ -63,6 +63,12 @@ The Meal Management System is a desktop application created to solve common prob
 > **Note**: Some update and delete functionalities are incomplete, and certain bugs may affect operations.
 
 ## Screenshots
+![Add Meal](documentation/add_meal.PNG)
+![Add Meal](documentation/addmemeber.PNG)
+![Add Meal](documentation/bazar.PNG)
+![Add Meal](documentation/contribution.PNG)
+![Add Meal](documentation/monthly_closing.PNG)
+
 
 
 
